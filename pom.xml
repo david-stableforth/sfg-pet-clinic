@@ -26,7 +26,7 @@
     </modules>
     <scm>
         <!--<developerConnection>scm:git:https://github.com/david-stableforth/sfg-pet-clinic.git</developerConnection>-->
-        <developerConnection>scm:git:git@github.com/david-stableforth/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:david-stableforth/sfg-pet-clinic.git</developerConnection>
 
         <tag>sfg-pet-clinic-0.0.1</tag>
     </scm>
